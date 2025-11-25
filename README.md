@@ -57,8 +57,7 @@ You will need the following tools installed on your system:
 ### **1\. Clone the Repository**
 
 git clone 
-
-https://github.com//anant-925//ats-resume-analyser
+https://github.com/IvySingh-1/ats-resume-analyser.git
 
 cd ats-resume-analyser
 
